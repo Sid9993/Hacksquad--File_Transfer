@@ -1,0 +1,1 @@
+Upload the static images, js and css here
